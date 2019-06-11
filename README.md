@@ -1,5 +1,5 @@
 # Archetype_identification
-Lookng at all the post made by the user in twitter, we in this project are intrested to find the archetype of the user within the list of archetype.
+Looking at all the post made by the user in twitter, we in this project are intrested to find the archetype of the user within the list of archetype.
 
 <h2>Example</h2>
  from archtype_user_identification.classify_user import classify_user</br>
