@@ -1,6 +1,6 @@
 setuptools==39.0.1
 numpy==1.14.5
-nltk==3.4
+nltk==3.4.5
 contractions==0.0.18
 gensim==3.7.3
 tweepy==3.7.0
